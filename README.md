@@ -1,8 +1,4 @@
 
-# Design Patterns in Unity With Among Us — Fixing Wires Task
-
-In this article, I try to implement Factory and Observer Patterns by recreating Fix Wiring tasks
-
 ![](https://cdn-images-1.medium.com/max/2000/1*JiDGgwMlVVAzC9jxC40r9g.jpeg)
 
 *“In order to fully understand this article you should be familiar with concepts like Dependency injection, Zenject, Unit Tests, SOLID and MVC”*
